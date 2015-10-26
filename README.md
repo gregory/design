@@ -6,3 +6,8 @@ I just created this repo to share my thoughts on what would be a good architectu
 I'll update this readme with the ideas behind the decisions i made. 
 
 If you want to share your thoughts, feel free to open issues! 
+
+## Note
+
+No need to try to run this locally, it might not work :)
+So far, i just focused on designing the architecture. 
